@@ -3,7 +3,8 @@ class script(object):
 
 Mʏ Nᴀᴍᴇ Is {bot}.
 
-I Cᴀɴ Pʀᴏᴠɪᴅᴇ HD Mᴏᴠɪᴇꜱ & Oᴛᴛ Rᴇʟᴇᴀꜱᴇᴅ Mᴏᴠɪᴇꜱ Hᴇʀᴇ... Jᴜꜱᴛ Aᴅᴅ Mᴇ Iɴ Yᴏᴜʀ Gʀᴏᴜᴘ Aɴᴅ Mᴀᴋᴇ Mᴇ Aᴅᴍɪɴ Oʀ Jᴜꜱᴛ Aꜱᴋ Mᴏᴠɪᴇ Hᴇʀᴇ... Bᴏᴛ Mᴀᴅᴇ Bʏ @masterchannel_official</b>"""
+I Cᴀɴ Pʀᴏᴠɪᴅᴇ HD Mᴏᴠɪᴇꜱ & Oᴛᴛ Rᴇʟᴇᴀꜱᴇᴅ Mᴏᴠɪᴇꜱ Hᴇʀᴇ... Jᴜꜱᴛ Aᴅᴅ Mᴇ Iɴ Yᴏᴜʀ Gʀᴏᴜᴘ Aɴᴅ Mᴀᴋᴇ Mᴇ Aᴅᴍɪɴ Oʀ Jᴜꜱᴛ Aꜱᴋ Mᴏᴠɪᴇ Hᴇʀᴇ... 
+Bᴏᴛ Mᴀᴅᴇ Bʏ @masterchannel_official</b>"""
     
     HELP_TXT = "Hᴇʏ {}\nHᴇʀᴇ Mꜱ Mʏ Hᴇʟᴩ"
 
