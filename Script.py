@@ -8,7 +8,7 @@ Mʏ Nᴀᴍᴇ Is {bot}.
     HELP_TXT = "Hᴇʏ {}\nHᴇʀᴇ Mꜱ Mʏ Hᴇʟᴩ"
 
     ABOUT_TXT = """<b>✯ Mʏ ɴᴀᴍᴇ: {}
-✯ Dᴇᴠᴇʟᴏᴩᴇʀ: <a herf=https://t.me/masterchannel_official>Mᴀsᴛᴇʀ Oғᴄʟᴮᵃᶜᵏ⁻ᵘᵖ TG </a>
+✯ Dᴇᴠᴇʟᴏᴩᴇʀ: <a herf=https://t.me/masterchannel_official>Mᴀsᴛᴇʀ Oғᴄʟ</a>
 ✯ Cᴏᴅᴇᴅ Oɴ: ᴩʏᴛʜᴏɴ/ᴩʏʀᴏɢʀᴀᴍ
 ✯ Mʏ DᴀᴛᴀBᴀꜱᴇ: ᴍᴏɴɢᴏ-ᴅʙ
 ✯ Mʏ Sᴇʀᴠᴇʀ: ᴀɴʏᴡʜᴇʀᴇ
