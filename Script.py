@@ -3,12 +3,12 @@ class script(object):
 
 Mʏ Nᴀᴍᴇ Is {bot}.
 
-I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ Yᴏᴜʀ Gʀᴏᴜᴘ and Join Our Backup Channel @masterchannel_official</b>"""
+​🇮​ ​🇨​ᴀɴ ​🇵​ʀᴏᴠɪᴅᴇ ​🇲​ᴏᴠɪᴇ ​🇫​ᴏʀ ​🇾​ᴏᴜ ​🇯​ᴜ​🇸​ᴛ ​🇦​ᴅᴅ ​🇲​ᴇ ​🇮​ɴ ​🇾​ᴏᴜʀ ​🇬​ʀᴏᴜᴘ ​🇦​​🇳​​🇩​ ​🇯​​🇴​​🇮​​🇳​ ​🇴​​🇺​​🇷​ ​🇧​​🇦​​🇨​​🇰​​🇺​​🇵​ ​🇨​​🇭​​🇦​​🇳​​🇳​​🇪​​🇱​ @masterchannel_official</b>"""
     
     HELP_TXT = "Hᴇʏ {}\nHᴇʀᴇ Mꜱ Mʏ Hᴇʟᴩ"
 
     ABOUT_TXT = """<b>✯ Mʏ ɴᴀᴍᴇ: {}
-✯ Dᴇᴠᴇʟᴏᴩᴇʀ: <a herf=https://t.me/Mr_MKN>ᴍʀ.ᴍᴋɴ ᴛɢ</a>
+✯ Dᴇᴠᴇʟᴏᴩᴇʀ: <a herf=https://t.me/masterchannel_official>Mᴀsᴛᴇʀ Oғᴄʟᴮᵃᶜᵏ⁻ᵘᵖ</a>
 ✯ Cᴏᴅᴇᴅ Oɴ: ᴩʏᴛʜᴏɴ/ᴩʏʀᴏɢʀᴀᴍ
 ✯ Mʏ DᴀᴛᴀBᴀꜱᴇ: ᴍᴏɴɢᴏ-ᴅʙ
 ✯ Mʏ Sᴇʀᴠᴇʀ: ᴀɴʏᴡʜᴇʀᴇ
